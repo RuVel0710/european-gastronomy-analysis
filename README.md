@@ -76,7 +76,7 @@ Real-world data is messy — this dataset required careful cleaning, which is a 
 
 ### 📸 Dashboard
 
-![European Gastronomy Dashboard](dashboard.png)
+![European Gastronomy Dashboard](dashboard_restaurant.png)
 
 ---
 
@@ -147,7 +147,7 @@ Los datos reales son desordenados — este dataset requirió limpieza cuidadosa,
 
 ### 📸 Dashboard
 
-![Dashboard de Gastronomía Europea](dashboard.png)
+![Dashboard de Gastronomía Europea](dashboard_restaurant.png)
 
 ---
 
